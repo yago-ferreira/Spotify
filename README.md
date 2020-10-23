@@ -1,5 +1,5 @@
 # Spotify
-**Projeto que desenvolvi utilizando recurso responsivo do Boostrap, deixando igual o site do Spotify.**
+**Projeto que desenvolvi utilizando recurso responsivo do Boostrap, deixando parecido com o site do Spotify.**
 ## Acesse
 <p align="center">
 
