@@ -3,7 +3,7 @@
 ## Imagens
 <p align="center">
 
-<img src="https://user-images.githubusercontent.com/54941268/94492264-4ea95180-01c0-11eb-949d-4b02e14df1d5.png" /><br>
+<img src="" /><br>
 </p>
 
 ## Autores
